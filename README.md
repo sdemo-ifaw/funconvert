@@ -8,9 +8,8 @@ Use currency conversion rates that are updated automatically on a daily basis fr
 
 https://wikitech.wikimedia.org/wiki/Fundraising/tech/Currency_conversion_sample?ctype=text/xml&action=raw
 
-This XML sample is a small static subset of supported currencies. For the purposes of this task, you should assume that we support many more currencies, and that the exchange rates for those currencies are expected to change on a once-daily basis.
+While this XML sample is a small static subset of supported currencie, this solution supports more currencies, and the exchange rates for those currencies are expected to change on a once-daily basis.
 
-Define a MySQL table that can store the daily currency conversion data.
 
 ## Goal
 
